@@ -1,6 +1,3 @@
-\game-test\Library\*.*
-\game-test\ProjectSettings\*.*
-\game-test\Temp\*.*
-\game-test\Library\
-\game-test\ProjectSettings\
-\game-test\Temp\
+game-test/Library/
+game-test/ProjectSettings/
+game-test/Temp/
